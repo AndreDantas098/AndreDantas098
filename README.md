@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AndreDantas098
 - 👀 I’m interested in game development and web devlopment
-- 🌱 I’m currently learning CSS and JS
+- 🌱 I’m currently learning python and JS
 - 💞️ I’m looking to collaborate on small projects for experience
 - 📫 How to reach me DantasDevContact@gmail.com
 
